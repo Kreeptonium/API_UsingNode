@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:44:39.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cs9bJoVJGqZUOH7tqg8_" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:47:13.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QsgjsJkHLe9HbIfKrjMB" version="22.1.11" type="github" pages="2">
   <diagram name="AI Working" id="aIYeVRtH6kk5mDvQRCJ_">
     <mxGraphModel dx="955" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -170,7 +170,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-1" value="Business Verticles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-1" value="Business Verticles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="390" y="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7XGHj2sXxl0bTl6fY2p5-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1">
@@ -185,22 +185,22 @@
             <mxPoint x="720" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-4" value="Physical Carbon Credit Trade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-4" value="Physical Carbon Credit Trade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-5" value="Offset Project Consulting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-5" value="Offset Project Consulting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-6" value="Carbon Credit Trading Exchange" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-6" value="Carbon Credit Trading Exchange" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-7" value="Offset Project Marketplace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-7" value="Offset Project Marketplace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="450" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-8" value="Offset Project Marketplace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-8" value="Offset Project Marketplace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7XGHj2sXxl0bTl6fY2p5-9" value="AI-Driven (Net Zero) Tool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7XGHj2sXxl0bTl6fY2p5-9" value="AI-Driven (Net Zero) Tool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="670" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7XGHj2sXxl0bTl6fY2p5-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1">
