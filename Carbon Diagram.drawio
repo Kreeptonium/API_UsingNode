@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T10:31:15.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zMtw-JzrER7_TobPxjQf" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-22T11:34:26.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WP_-RrNfWINc_KRKd3nu" version="22.1.11" type="github" pages="3">
   <diagram name="AI Working" id="aIYeVRtH6kk5mDvQRCJ_">
     <mxGraphModel dx="955" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -247,92 +247,92 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="10" width="810" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="403" y="440" as="sourcePoint" />
-            <mxPoint x="403" y="490" as="targetPoint" />
+            <mxPoint x="351.48214285714283" y="445.45454545454555" as="sourcePoint" />
+            <mxPoint x="351.48214285714283" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-2" value="Tehsildar" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-2" value="Tehsildar" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="260.35714285714283" y="350.0000000000001" width="173.57142857142856" height="95.45454545454545" as="geometry" />
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dpz7AJ9wDPO2nOmzFeaS-8" target="Dpz7AJ9wDPO2nOmzFeaS-10">
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-8" value="Kanungo" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="260.35714285714283" y="525" width="173.57142857142856" height="95.45454545454545" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65" source="Dpz7AJ9wDPO2nOmzFeaS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="347.1428571428571" y="175.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-12" value="DM (Divisional Magistrate / Collector)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="242.27678571428572" width="209.73214285714286" height="95.45454545454545" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-13" value="SDM (Record Keeping Office)" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="260.35714285714283" y="175.00000000000006" width="173.57142857142856" height="95.45454545454545" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-19" value="&lt;ul&gt;&lt;li&gt;Job of record keeping assigned to SDM&lt;/li&gt;&lt;li&gt;Provide certificate / record till 75 years&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="477.32142857142844" y="198.86363636363637" width="274.8214285714285" height="47.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="351.48214285714283" y="272.0454545454545" as="sourcePoint" />
+            <mxPoint x="351.48214285714283" y="351.5909090909091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-33" value="&lt;ul&gt;&lt;li&gt;village revenue account &amp;amp; land records&lt;br&gt;&lt;/li&gt;&lt;li&gt;Provide certificate / record of last 12 yrs&lt;/li&gt;&lt;li&gt;Covers 1-4 villages&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="477.32142857142844" y="723.8636363636365" width="289.2857142857142" height="47.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-10" value="Lekhpal" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="260.35714285714283" y="700.0000000000002" width="173.57142857142856" height="95.45454545454545" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65" source="Dpz7AJ9wDPO2nOmzFeaS-8" target="Dpz7AJ9wDPO2nOmzFeaS-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-8" value="Kanungo" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-39" value="Sub Registrar Office&lt;br&gt;(SRO)" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="130.17857142857142" y="890.9090909090911" width="462.85714285714283" height="159.09090909090912" as="geometry" />
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dpz7AJ9wDPO2nOmzFeaS-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-44" value="&lt;ul&gt;&lt;li&gt;The Kanungo, under the supervision of the Tehsildar, ensures that the land records are updated accurately&lt;br&gt;&lt;/li&gt;&lt;li&gt;Overseeing the work of Lekhpals&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="477.32142857142844" y="477.27272727272725" width="332.6785714285714" height="190.9090909090909" as="geometry" />
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-12" value="DM (Divisional Magistrate / Collector)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="160" width="145" height="60" as="geometry" />
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-45" value="&lt;ul&gt;&lt;li&gt;SRO processes the documents, the information is usually forwarded to the Tehsildar’s office.Overseeing the work of Lekhpals&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="477.32142857142844" y="302.2727272727273" width="332.6785714285714" height="190.9090909090909" as="geometry" />
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-13" value="SDM (Record Keeping Office)" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-19" value="&lt;ul&gt;&lt;li&gt;Job of record keeping assigned to SDM&lt;/li&gt;&lt;li&gt;Provide certificate / record till 75 years&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="285" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="403" y="331" as="sourcePoint" />
-            <mxPoint x="403" y="381" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-33" value="&lt;ul&gt;&lt;li&gt;village revenue account &amp;amp; land records&lt;br&gt;&lt;/li&gt;&lt;li&gt;Provide certificate / record of last 12 yrs&lt;/li&gt;&lt;li&gt;Covers 1-4 villages&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="615" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-10" value="Lekhpal" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-39" value="Sub Registrar Office&lt;br&gt;(SRO)" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="720" width="320" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-44" value="&lt;ul&gt;&lt;li&gt;The Kanungo, under the supervision of the Tehsildar, ensures that the land records are updated accurately&lt;br&gt;&lt;/li&gt;&lt;li&gt;Overseeing the work of Lekhpals&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="230" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-45" value="&lt;ul&gt;&lt;li&gt;SRO processes the documents, the information is usually forwarded to the Tehsildar’s office.Overseeing the work of Lekhpals&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="230" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.472;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Dpz7AJ9wDPO2nOmzFeaS-39">
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.472;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65" target="Dpz7AJ9wDPO2nOmzFeaS-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="401" y="663" as="sourcePoint" />
-            <mxPoint x="401" y="710" as="targetPoint" />
+            <mxPoint x="348.5892857142857" y="800.2272727272726" as="sourcePoint" />
+            <mxPoint x="348.5892857142857" y="875.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Dpz7AJ9wDPO2nOmzFeaS-2">
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65" target="Dpz7AJ9wDPO2nOmzFeaS-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="770" as="sourcePoint" />
-            <mxPoint x="160" y="410" as="targetPoint" />
+            <mxPoint y="970.4545454545455" as="sourcePoint" />
+            <mxPoint y="397.72727272727275" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="410" />
+              <mxPoint y="397.72727272727275" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="770" as="sourcePoint" />
-            <mxPoint x="160" y="770" as="targetPoint" />
+            <mxPoint x="130.17857142857142" y="970.4545454545455" as="sourcePoint" />
+            <mxPoint y="970.4545454545455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Dpz7AJ9wDPO2nOmzFeaS-10">
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65" target="Dpz7AJ9wDPO2nOmzFeaS-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="752" as="sourcePoint" />
-            <mxPoint x="200" y="570" as="targetPoint" />
+            <mxPoint x="130.17857142857142" y="941.8181818181818" as="sourcePoint" />
+            <mxPoint x="57.857142857142854" y="652.2727272727273" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="752" />
-              <mxPoint x="200" y="630" />
+              <mxPoint x="57.857142857142854" y="941.8181818181818" />
+              <mxPoint x="57.857142857142854" y="747.7272727272726" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-62" value="Acknowledgement Slip" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="585" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-64" value="&lt;h1 style=&quot;font-size: 50px;&quot;&gt;Land Registry Process&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=50;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="20" width="552.5" height="120" as="geometry" />
+        <mxCell id="Dpz7AJ9wDPO2nOmzFeaS-62" value="Acknowledgement Slip" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dpz7AJ9wDPO2nOmzFeaS-65">
+          <mxGeometry x="43.39285714285714" y="676.1363636363636" width="86.78571428571428" height="47.72727272727273" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
